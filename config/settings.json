@@ -1,0 +1,24 @@
+{
+    "taskoptions": {    
+        "1": {
+            "name": "Feature Extraction",
+            "description": "Extracts key features from the provided text."
+        },
+        "2": {
+            "name": "Code Generation",
+            "description": "Generates Python boilerplates based on logic."
+        },
+        "3": {
+            "name": "Refactor Assistant",
+            "description": "Suggests improvements for existing code blocks."
+        },
+        "4": {
+            "name": "Documentation Writer",
+            "description": "Creates docstrings and README entries."
+        },
+        "5": {
+            "name": "Unit Test Creator",
+            "description": "Writes pytest suites for the current module."
+        }
+    }  
+}

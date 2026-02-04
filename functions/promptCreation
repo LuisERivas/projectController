@@ -1,0 +1,20 @@
+def get_multiline_input(prompt_text):
+    print(f"\n{prompt_text} (Press Enter on an empty line to finish):")
+    lines = []
+    while True:
+        line = input("> ")
+        if not line:
+            break
+        lines.append(line)
+    return "\n".join(lines)
+
+def main():
+    # Capture the Feature Description
+    feature = get_multiline_input("Enter your Feature Description")
+
+    # Simple output
+    print("\n--- FEATURE DESCRIPTION ---")
+    print(feature)
+
+if __name__ == "__main__":
+    main()
