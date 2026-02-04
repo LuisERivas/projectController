@@ -1,0 +1,125 @@
+{
+    "pmDocuments": {    
+        "1": {
+            "documentName": "PRD",
+            "documentDescription": "Product Requirements Document outlining features and specifications.",
+            "documentTitleMetadata": {
+                "title": "exampleTitle",
+                "owner": "exampleName",
+                "dateUpdated": "99/99/9999",
+                "stakeholders": {
+                    "product": "exampleName",
+                    "design": "exampleName",
+                    "engineering": "exampleName",
+                    "legalCompliance": "LexampleNameogan"
+                }
+            },
+            "problemStatement": "exampleProblemStatement",
+            "goals": {
+                "goal1": "exampleGoal",
+                "goal2": "exampleGoal",
+                "goal3": "exampleGoal",
+                "goal4": "exampleGoal",
+                "goal5": "exampleGoal",
+                "goal6": "exampleGoal",
+                "goal7": "exampleGoal",
+                "goal8": "exampleGoal",
+                "goal9": "exampleGoal",
+                "goal10": "exampleGoal"
+            },
+            "scope": {
+                "inScope": {
+                    "inScope1": "exampleInScope",
+                    "inScope2": "exampleInScope",  
+                    "inScope3": "exampleInScope",
+                    "inScope4": "exampleInScope",
+                    "inScope5": "exampleInScope",
+                    "inScope6": "exampleInScope",
+                    "inScope7": "exampleInScope",
+                    "inScope8": "exampleInScope",   
+                    "inScope9": "exampleInScope",
+                    "inScope10": "exampleInScope"
+                },
+                "outScope": {
+                    "outScope1": "exampleOutScope",
+                    "outScope2": "exampleOutScope",  
+                    "outScope3": "exampleOutScope",
+                    "outScope4": "exampleOutScope",
+                    "outScope5": "exampleOutScope",
+                    "outScope6": "exampleOutScope",
+                    "outScope7": "exampleOutScope",
+                    "outScope8": "exampleOutScope",
+                    "outScope9": "exampleOutScope",
+                    "outScope10": "exampleOutScope"
+                }
+            },
+        "keyUserStories": {
+            "user_story1": "exampleUserStory",
+            "user_story2": "exampleUserStory",
+            "user_story3": "exampleUserStory",
+            "user_story4": "exampleUserStory",
+            "user_story5": "exampleUserStory",
+            "user_story6": "exampleUserStory",
+            "user_story7": "exampleUserStory",
+            "user_story8": "exampleUserStory",
+            "user_story9": "exampleUserStory",
+            "user_story10": "exampleUserStory"
+        },   
+        "technicalRequirements": {
+            "frontend": {
+                "frontendRequirement1": "exampleRequirement",
+                "frontendRequirement2": "exampleRequirement",
+                "frontendRequirement3": "exampleRequirement",
+                "frontendRequirement4": "exampleRequirement",
+                "frontendRequirement5": "exampleRequirement",
+                "frontendRequirement6": "exampleRequirement",
+                "frontendRequirement7": "exampleRequirement",
+                "frontendRequirement8": "exampleRequirement",
+                "frontendRequirement9": "exampleRequirement",
+                "frontendRequirement10": "exampleRequirement"
+        },   
+            "backend": {
+                "backendRequirement1": "exampleRequirement",
+                "backendRequirement2": "exampleRequirement",
+                "backendRequirement3": "exampleRequirement",
+                "backendRequirement4": "exampleRequirement",
+                "backendRequirement5": "exampleRequirement",
+                "backendRequirement6": "exampleRequirement",
+                "backendRequirement7": "exampleRequirement",
+                "backendRequirement8": "exampleRequirement",
+                "backendRequirement9": "exampleRequirement",
+                "backendRequirement10": "exampleRequirement"
+        }
+        },
+        "acceptanceCriteria": {
+                "acceptanceCriteria1": "exampleAcceptanceCriteria",
+                "acceptanceCriteria2": "exampleAcceptanceCriteria",
+                "acceptanceCriteria3": "exampleAcceptanceCriteria",
+                "acceptanceCriteria4": "exampleAcceptanceCriteria",
+                "acceptanceCriteria5": "exampleAcceptanceCriteria",
+                "acceptanceCriteria6": "exampleAcceptanceCriteria",
+                "acceptanceCriteria7": "exampleAcceptanceCriteria",
+                "acceptanceCriteria8": "exampleAcceptanceCriteria",
+                "acceptanceCriteria9": "exampleAcceptanceCriteria",
+                "acceptanceCriteria10": "exampleAcceptanceCriteria"
+        }
+        }
+
+    },
+    "2": {
+        "name": "Code Generation",
+        "description": "Generates Python boilerplates based on logic."
+    },
+    "3": {
+        "name": "Refactor Assistant",
+        "description": "Suggests improvements for existing code blocks."
+    },
+    "4": {
+        "name": "Documentation Writer",
+        "description": "Creates docstrings and README entries."
+    },
+    "5": {
+        "name": "Unit Test Creator",
+        "description": "Writes pytest suites for the current module."
+    }
+}  

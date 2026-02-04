@@ -1,8 +1,8 @@
 {
     "taskoptions": {    
         "1": {
-            "name": "Feature Extraction",
-            "description": "Extracts key features from the provided text."
+            "name": "Create PRD",
+            "description": "Creates a PRD from a short description"
         },
         "2": {
             "name": "Code Generation",
