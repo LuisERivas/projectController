@@ -1,18 +1,14 @@
+#!/usr/bin/env python3
 
 """
-A basic Python script that prints "Hello, World!" to the terminal.
-
-This script demonstrates the simplest form of output in Python using the
-built-in `print()` function.
+This script prints the phrase "i like eggs" to the terminal.
 """
 
 def main():
-    """
-    The main function that encapsulates the logic for printing the greeting.
-    """
-    print("Hello, World!")
+  """
+  Prints "i like eggs" to the console.
+  """
+  print("i like eggs")
 
 if __name__ == "__main__":
-    # This block ensures that `main()` is called only when the script is
-    # executed directly (not when imported as a module).
-    main()
+  main()
