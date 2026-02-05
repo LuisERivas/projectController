@@ -1,0 +1,85 @@
+{
+    "appMap": {    
+        "activityPage": {
+            "pageDescription": "n/a",
+            "path": "n/a",
+            "pageHeader": "nonEmptyEmptyNotif", 
+            "pageBody": {
+                "feed": {
+                    "brokerageTransactions": "v1.0"
+                }
+            },
+            "pageFooter": "homeComActProf"
+        },
+        "profilePage": {
+            "pageDescription": "n/a",
+            "path": "n/a",
+            "pageHeader": "emptyEmptyEmptySett", 
+            "pageBody": {
+                "userProfileCard": "v1.0",
+                "tabSwitch": "2x"
+            },
+            "pageFooter": "homeComActProf"
+            },
+        "communityPage": {
+            "pageDescription": "n/a",
+            "path": "n/a",
+            "pageHeader": "nonPageSearchNotif", 
+            "pageBody": {
+                "tabSwitch": "2x"
+            },
+            "pageFooter": "homeComActProf"
+            },
+        "homePage": {
+            "pageDescription": "n/a",
+            "path": "n/a",
+            "pageHeader": "emptyPageSearchNotif", 
+            "pageBody": {
+                "anouncements1": "N/A",
+                "anouncements2": "N/A",
+                "trendingStocks": "v1.0"
+            },
+            "pageFooter": "homeComActProf"
+            },
+        "settingsPage": {
+            "pageDescription": "n/a",
+            "path": "n/a",
+            "pageHeader": "backPageEmptyEmpty", 
+            "pageBody": {
+                "notificationsBlock": "v1.0",
+                "privacyBlock": "v1.0",
+                "exitBlock": "v1.0"
+            },
+            "pageFooter": "gone"
+            },
+        "companyOverviewPage": {
+            "pageDescription": "n/a",
+            "path": "n/a",
+            "pageHeader": "backPageSearchNotif", 
+            "pageBody": {
+                "companyChart": "N/A",
+                "tabSwitch": "2x"
+            },
+            "pageFooter": "homeComActProf"
+            },
+        "searchPage": {
+            "pageDescription": "n/a",
+            "path": "n/a",
+            "pageHeader": "backEmptyEmptyEmpty", 
+            "pageBody": {
+                "searchInput": "N/A",
+                "SearchResultsBlock": "2x"
+            },
+            "pageFooter": "homeComActProf"
+            },
+        "notificationsPage": {
+            "pageDescription": "n/a",
+            "path": "n/a",
+            "pageHeader": "backPageEmptyEmpty", 
+            "pageBody": {
+                "notificationsBlock": "N/A"
+            },
+            "pageFooter": "homeComActProf"
+            }
+        }
+    }
